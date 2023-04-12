@@ -1,0 +1,11 @@
+{
+   "name": "mvce-dynamo-easy-update-empty-array",
+   "version": "1.0.0",
+   "author": "Ethan Smith",
+   "license": "MIT",
+   "dependencies": {
+      "@shiftcoders/dynamo-easy": "7.1.0",
+      "reflect-metadata": "0.1.13",
+      "ts-node": "10.9.1"
+   }
+}
